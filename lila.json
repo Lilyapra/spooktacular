@@ -1,0 +1,26 @@
+{
+  "name": "lila",
+  "stats": {
+    "hp": 100,
+    "ac": 99,
+    "speed": 100
+  },
+  "abilities": {
+    "strength": 80,
+    "dexterity": 100,
+    "constitution": 50,
+    "intelligence": 100,
+    "wisdom": 100,
+    "charisma": 50
+  },
+  "attack": {
+    "name": "lilyay",
+    "damage": 1
+  },
+  "special": {
+      "name": "lola",
+      "description": "very tall",
+      "effect": "can run"
+  }
+}
+
